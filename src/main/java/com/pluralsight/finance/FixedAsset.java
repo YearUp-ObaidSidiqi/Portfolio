@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsight.finance;
 
 public abstract class FixedAsset implements IValuable {
     private String name;

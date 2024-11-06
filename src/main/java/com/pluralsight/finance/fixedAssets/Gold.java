@@ -1,5 +1,5 @@
-package com.pluralsight.fixedAssets;
-import com.pluralsight.FixedAsset;
+package com.pluralsight.finance.fixedAssets;
+import com.pluralsight.finance.FixedAsset;
 
 public class Gold extends FixedAsset {
 
